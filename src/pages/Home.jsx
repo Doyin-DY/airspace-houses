@@ -189,7 +189,7 @@ export default function Home() {
               </div>
               <Link
                 className="py-2  px-8 md:px-10 w-max border border-solid rounded-full border-slate-700 text-sm md:text-base"
-                to="/properties"
+                to="/listing"
               >
                 See More
               </Link>
